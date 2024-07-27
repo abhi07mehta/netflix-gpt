@@ -1,6 +1,9 @@
+import Header from "./Header"
 const Login = ()=>{
     return(
-        <div>Login page</div>
+        <div>
+            <Header/>
+        </div>
     )
 }
 
