@@ -8,13 +8,7 @@ import { getAuth } from "firebase/auth";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyB3NFidIVYUmaoQ0YhhoCM_Hs_FXKi5Tlc",
-  authDomain: "replay-gpt.firebaseapp.com",
-  projectId: "replay-gpt",
-  storageBucket: "replay-gpt.appspot.com",
-  messagingSenderId: "534985347278",
-  appId: "1:534985347278:web:1ec23a6599e24fa325009f",
-  measurementId: "G-QWWBLS1HQ2"
+ 
 };
 
 // Initialize Firebase
