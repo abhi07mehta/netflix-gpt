@@ -11,7 +11,7 @@ const Browse = ()=>{
         method: 'GET',
         headers: {
         accept: 'application/json',
-        Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI5YTJlN2M4YjBiN2RiNmFlYWUxNDM4MGFhOThhMmJhYiIsIm5iZiI6MTcyMjMzNjY2My44Nzg1Miwic3ViIjoiNjI3NjM2ZjMzMjNlYmExMzM3MjAwZWFkIiwic2NvcGVzIjpbImFwaV9yZWFkIl0sInZlcnNpb24iOjF9.BQv8E5vPfXAakvNcwwEXQD5UheeV9JICVqxZz2GyTKQ'
+        Authorization: 'Bearer Token'
   }
     }
 
